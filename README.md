@@ -14,10 +14,12 @@
 ---
 
 ### :man_technologist: About me:
-*  👋 Hi, I’m Bruno Rodriguez
-*  👀 I’m interested in Data Analysis and Data Science
-*  📫 You can send me a message on LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-Ayrton-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-cesar-rodriguez/)
-*  ⚡ Fun fact: I also like paleontology and marine biology
+*  👋 Hi, my name is Bruno Rodriguez. Nice to see you here!
+*  🔭 I studied Astrophysics and retain a passion for learning about the Universe.
+*  :computer: I work as a freelance data scientist.
+*  👯 I’m looking to collaborate on projects related to data science and/or data analysis.
+*  📫 You can connect with me on LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-cesar-rodriguez/)
+*  ⚡ Fun fact: Besides astrophysics, I also like other sciences such as paleontology and marine biology!
 
 ---
 
