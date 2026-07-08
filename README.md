@@ -16,7 +16,7 @@
 ### :man_technologist: About me:
 *  👋 Hi, my name is Bruno Rodriguez. Nice to see you here!
 *  🔭 I studied Astrophysics and retain a passion for learning about the Universe.
-*  :computer: I currently work as a freelance data scientist.
+*  :computer: I currently work as a freelance data analyst.
 *  👯 I’m looking to collaborate on projects related to data science and/or data analysis.
 *  📫 You can connect with me on LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-cesar-rodriguez/)
 *  ⚡ Fun fact: Besides astrophysics, I also like other sciences such as paleontology and marine biology!
