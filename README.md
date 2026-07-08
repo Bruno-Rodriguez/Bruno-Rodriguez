@@ -25,7 +25,7 @@
 
 ### :hammer_and_wrench: Skills :
 
-[![My Skills](https://skillicons.dev/icons?i=py,postgres,anaconda,pytorch,sklearn,vscode,git,github,latex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,postgres,anaconda,pytorch,sklearn,vscode,git,github,latex,r)](https://skillicons.dev)
 
 ---
 
